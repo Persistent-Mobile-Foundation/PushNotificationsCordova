@@ -1,0 +1,10 @@
+
+[
+    {
+        "title": "PMF Push notification",
+        "id": 1,
+        "icon":"notifications-outline",
+        "link":"/pmf-push",
+        "buttontext":"Click Here!"
+    }
+]

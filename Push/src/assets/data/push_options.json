@@ -1,0 +1,23 @@
+[
+  
+    {
+        "title": "Register Device",
+        "id": 1
+    },
+    {
+        "title": "Subscribe to tags",
+        "id": 2
+    },
+    {
+        "title": "Get all tags",
+        "id": 3
+    },
+    {
+        "title": "Deregister Device",
+        "id": 4
+    },
+    {
+        "title": "Check if push supported",
+        "id": 5
+    }
+]
